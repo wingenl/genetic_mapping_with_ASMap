@@ -1,5 +1,5 @@
 # genetic_mapping_with_ASMap
-A script helping to create a genetic map using package ASMap in R
+A script helping to create a genetic map using package ASMap in R.
 
 Author: Luzie U. Wingen, John Innes Centre, UK
 Date: 06/12/2021
