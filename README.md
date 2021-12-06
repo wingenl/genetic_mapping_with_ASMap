@@ -1,8 +1,7 @@
 # genetic_mapping_with_ASMap
 A script helping to create a genetic map using package ASMap in R.
 
-Author: Luzie U. Wingen, John Innes Centre, UK
-Date: 06/12/2021
+Author: Luzie U. Wingen, John Innes Centre, UK; date: 06/12/2021
 
 Software: R 4.0, library ASMap
 
@@ -14,3 +13,4 @@ Additionally, there is a short pdf tutorial for more details: "short_tutorial_ge
 
 Once the test data set has been successfully mapped, the user can bring their genotype data into the right format and
 adjust the script so that it will work on that data set.
+[short_tutorial_genetic_mapping_with_ASMap_in_R.pdf](https://github.com/wingenl/genetic_mapping_with_ASMap/files/7661417/short_tutorial_genetic_mapping_with_ASMap_in_R.pdf)
